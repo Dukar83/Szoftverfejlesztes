@@ -1,0 +1,10 @@
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Szinezos\Szinezős\obj\Debug\Szinezős.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Szinezos\Szinezős\obj\Debug\Szinezős.Form1.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Szinezos\Szinezős\obj\Debug\Szinezős.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Szinezos\Szinezős\obj\Debug\Szinezős.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Szinezos\Szinezős\obj\Debug\Szinezős.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Szinezos\Szinezős\bin\Debug\Szinezős.exe.config
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Szinezos\Szinezős\bin\Debug\Szinezős.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Szinezos\Szinezős\bin\Debug\Szinezős.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Szinezos\Szinezős\obj\Debug\Szinezős.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Szinezos\Szinezős\obj\Debug\Szinezős.pdb
