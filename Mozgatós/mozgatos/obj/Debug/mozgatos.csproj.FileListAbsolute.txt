@@ -1,0 +1,10 @@
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Mozgatós\mozgatos\bin\Debug\mozgatos.exe.config
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Mozgatós\mozgatos\bin\Debug\mozgatos.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Mozgatós\mozgatos\bin\Debug\mozgatos.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Mozgatós\mozgatos\obj\Debug\mozgatos.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Mozgatós\mozgatos\obj\Debug\mozgatos.Form1.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Mozgatós\mozgatos\obj\Debug\mozgatos.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Mozgatós\mozgatos\obj\Debug\mozgatos.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Mozgatós\mozgatos\obj\Debug\mozgatos.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Mozgatós\mozgatos\obj\Debug\mozgatos.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Mozgatós\mozgatos\obj\Debug\mozgatos.pdb
