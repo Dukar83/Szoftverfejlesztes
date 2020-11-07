@@ -1,0 +1,13 @@
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\obj\Debug\netcoreapp3.1\parosParatlaNnulla.csprojAssemblyReference.cache
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\obj\Debug\netcoreapp3.1\parosParatlaNnulla.AssemblyInfoInputs.cache
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\obj\Debug\netcoreapp3.1\parosParatlaNnulla.AssemblyInfo.cs
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\obj\Debug\netcoreapp3.1\parosParatlaNnulla.csproj.CoreCompileInputs.cache
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\bin\Debug\netcoreapp3.1\parosParatlaNnulla.exe
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\bin\Debug\netcoreapp3.1\parosParatlaNnulla.deps.json
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\bin\Debug\netcoreapp3.1\parosParatlaNnulla.runtimeconfig.json
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\bin\Debug\netcoreapp3.1\parosParatlaNnulla.runtimeconfig.dev.json
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\bin\Debug\netcoreapp3.1\parosParatlaNnulla.dll
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\bin\Debug\netcoreapp3.1\parosParatlaNnulla.pdb
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\obj\Debug\netcoreapp3.1\parosParatlaNnulla.dll
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\obj\Debug\netcoreapp3.1\parosParatlaNnulla.pdb
+C:\Users\peter.kelemen\source\repos\parosParatlaNnulla\parosParatlaNnulla\obj\Debug\netcoreapp3.1\parosParatlaNnulla.genruntimeconfig.cache

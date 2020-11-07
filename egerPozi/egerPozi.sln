@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "egerPozi", "egerPozi\egerPozi.csproj", "{1A0B89A7-7A4F-4E94-8B95-E487670B588A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0B89A7-7A4F-4E94-8B95-E487670B588A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0B89A7-7A4F-4E94-8B95-E487670B588A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0B89A7-7A4F-4E94-8B95-E487670B588A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0B89A7-7A4F-4E94-8B95-E487670B588A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0281854-6145-45CE-A9F3-9E615BC413F5}
+	EndGlobalSection
+EndGlobal

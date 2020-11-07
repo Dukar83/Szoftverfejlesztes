@@ -1,0 +1,10 @@
+C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\bin\Debug\halmazMuveletes.exe.config
+C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\bin\Debug\halmazMuveletes.exe
+C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\bin\Debug\halmazMuveletes.pdb
+C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.csprojAssemblyReference.cache
+C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.Form1.resources
+C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.Properties.Resources.resources
+C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.csproj.GenerateResource.cache
+C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.csproj.CoreCompileInputs.cache
+C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.exe
+C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.pdb

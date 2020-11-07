@@ -1,0 +1,10 @@
+C:\Users\peter.kelemen\source\repos\egerPozi\egerPozi\bin\Debug\egerPozi.exe.config
+C:\Users\peter.kelemen\source\repos\egerPozi\egerPozi\bin\Debug\egerPozi.exe
+C:\Users\peter.kelemen\source\repos\egerPozi\egerPozi\bin\Debug\egerPozi.pdb
+C:\Users\peter.kelemen\source\repos\egerPozi\egerPozi\obj\Debug\egerPozi.csprojAssemblyReference.cache
+C:\Users\peter.kelemen\source\repos\egerPozi\egerPozi\obj\Debug\egerPozi.FormFejlec.resources
+C:\Users\peter.kelemen\source\repos\egerPozi\egerPozi\obj\Debug\egerPozi.Properties.Resources.resources
+C:\Users\peter.kelemen\source\repos\egerPozi\egerPozi\obj\Debug\egerPozi.csproj.GenerateResource.cache
+C:\Users\peter.kelemen\source\repos\egerPozi\egerPozi\obj\Debug\egerPozi.csproj.CoreCompileInputs.cache
+C:\Users\peter.kelemen\source\repos\egerPozi\egerPozi\obj\Debug\egerPozi.exe
+C:\Users\peter.kelemen\source\repos\egerPozi\egerPozi\obj\Debug\egerPozi.pdb

@@ -1,0 +1,13 @@
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\bin\Debug\netcoreapp3.1\pluszminusz.exe
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\bin\Debug\netcoreapp3.1\pluszminusz.deps.json
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\bin\Debug\netcoreapp3.1\pluszminusz.runtimeconfig.json
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\bin\Debug\netcoreapp3.1\pluszminusz.runtimeconfig.dev.json
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\bin\Debug\netcoreapp3.1\pluszminusz.dll
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\bin\Debug\netcoreapp3.1\pluszminusz.pdb
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\obj\Debug\netcoreapp3.1\pluszminusz.csprojAssemblyReference.cache
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\obj\Debug\netcoreapp3.1\pluszminusz.AssemblyInfoInputs.cache
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\obj\Debug\netcoreapp3.1\pluszminusz.AssemblyInfo.cs
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\obj\Debug\netcoreapp3.1\pluszminusz.csproj.CoreCompileInputs.cache
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\obj\Debug\netcoreapp3.1\pluszminusz.dll
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\obj\Debug\netcoreapp3.1\pluszminusz.pdb
+C:\Users\peter.kelemen\source\repos\pluszminusz\pluszminusz\obj\Debug\netcoreapp3.1\pluszminusz.genruntimeconfig.cache
