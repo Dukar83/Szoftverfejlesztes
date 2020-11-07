@@ -1,0 +1,10 @@
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\2020.Nov.04. Menukezeles\bin\Debug\_2020.Nov._04.Menukezeles.exe.config
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\2020.Nov.04. Menukezeles\bin\Debug\_2020.Nov._04.Menukezeles.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\2020.Nov.04. Menukezeles\bin\Debug\_2020.Nov._04.Menukezeles.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\2020.Nov.04. Menukezeles\obj\Debug\2020.Nov.04. Menukezeles.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\2020.Nov.04. Menukezeles\obj\Debug\_2020.Nov._04.Menukezeles.Form1.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\2020.Nov.04. Menukezeles\obj\Debug\_2020.Nov._04.Menukezeles.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\2020.Nov.04. Menukezeles\obj\Debug\2020.Nov.04. Menukezeles.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\2020.Nov.04. Menukezeles\obj\Debug\2020.Nov.04. Menukezeles.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\2020.Nov.04. Menukezeles\obj\Debug\_2020.Nov._04.Menukezeles.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\2020.Nov.04. Menukezeles\obj\Debug\_2020.Nov._04.Menukezeles.pdb
