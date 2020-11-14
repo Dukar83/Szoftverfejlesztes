@@ -1,0 +1,10 @@
+C:\Users\Dukar\source\repos\tabcontrol\bin\Debug\tabcontrol.exe.config
+C:\Users\Dukar\source\repos\tabcontrol\bin\Debug\tabcontrol.exe
+C:\Users\Dukar\source\repos\tabcontrol\bin\Debug\tabcontrol.pdb
+C:\Users\Dukar\source\repos\tabcontrol\obj\Debug\tabcontrol.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\tabcontrol\obj\Debug\tabcontrol.Form1.resources
+C:\Users\Dukar\source\repos\tabcontrol\obj\Debug\tabcontrol.Properties.Resources.resources
+C:\Users\Dukar\source\repos\tabcontrol\obj\Debug\tabcontrol.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\tabcontrol\obj\Debug\tabcontrol.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\tabcontrol\obj\Debug\tabcontrol.exe
+C:\Users\Dukar\source\repos\tabcontrol\obj\Debug\tabcontrol.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tabcontrol2", "tabcontrol2.csproj", "{08753232-24E5-480E-AE9E-11530FD86D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08753232-24E5-480E-AE9E-11530FD86D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08753232-24E5-480E-AE9E-11530FD86D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08753232-24E5-480E-AE9E-11530FD86D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08753232-24E5-480E-AE9E-11530FD86D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF7AAFA-31A6-41CB-B95C-4A98D0795BB9}
+	EndGlobalSection
+EndGlobal
