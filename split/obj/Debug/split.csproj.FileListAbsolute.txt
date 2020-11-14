@@ -1,0 +1,10 @@
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\split\bin\Debug\split.exe.config
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\split\bin\Debug\split.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\split\bin\Debug\split.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\split\obj\Debug\split.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\split\obj\Debug\split.Form1.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\split\obj\Debug\split.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\split\obj\Debug\split.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\split\obj\Debug\split.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\split\obj\Debug\split.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\split\obj\Debug\split.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tablap", "tablap.csproj", "{728F0698-0F0F-4157-9DE4-58097572C4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{728F0698-0F0F-4157-9DE4-58097572C4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728F0698-0F0F-4157-9DE4-58097572C4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728F0698-0F0F-4157-9DE4-58097572C4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728F0698-0F0F-4157-9DE4-58097572C4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5113994A-0368-4145-BE77-1944AF474A7F}
+	EndGlobalSection
+EndGlobal

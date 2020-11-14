@@ -1,0 +1,10 @@
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\tablap\bin\Debug\tablap.exe.config
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\tablap\bin\Debug\tablap.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\tablap\bin\Debug\tablap.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\tablap\obj\Debug\tablap.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\tablap\obj\Debug\tablap.Form1.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\tablap\obj\Debug\tablap.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\tablap\obj\Debug\tablap.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\tablap\obj\Debug\tablap.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\tablap\obj\Debug\tablap.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\tablap\obj\Debug\tablap.pdb
