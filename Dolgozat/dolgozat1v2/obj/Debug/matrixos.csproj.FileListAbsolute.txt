@@ -18,3 +18,13 @@ C:\Users\2019398\Desktop\matrixos\obj\Debug\matrixos.csproj.GenerateResource.cac
 C:\Users\2019398\Desktop\matrixos\obj\Debug\matrixos.csproj.CoreCompileInputs.cache
 C:\Users\2019398\Desktop\matrixos\obj\Debug\matrixos.exe
 C:\Users\2019398\Desktop\matrixos\obj\Debug\matrixos.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Dolgozat\dolgozat1v2\bin\Debug\matrixos.exe.config
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Dolgozat\dolgozat1v2\bin\Debug\matrixos.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Dolgozat\dolgozat1v2\bin\Debug\matrixos.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Dolgozat\dolgozat1v2\obj\Debug\matrixos.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Dolgozat\dolgozat1v2\obj\Debug\matrixos.Form1.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Dolgozat\dolgozat1v2\obj\Debug\matrixos.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Dolgozat\dolgozat1v2\obj\Debug\matrixos.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Dolgozat\dolgozat1v2\obj\Debug\matrixos.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Dolgozat\dolgozat1v2\obj\Debug\matrixos.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\Dolgozat\dolgozat1v2\obj\Debug\matrixos.pdb
