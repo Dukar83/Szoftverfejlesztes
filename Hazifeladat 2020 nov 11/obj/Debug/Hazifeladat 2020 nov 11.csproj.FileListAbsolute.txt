@@ -1,0 +1,10 @@
+C:\Users\Dukar\source\repos\Hazifeladat 2020 nov 11\bin\Debug\Hazifeladat 2020 nov 11.exe.config
+C:\Users\Dukar\source\repos\Hazifeladat 2020 nov 11\bin\Debug\Hazifeladat 2020 nov 11.exe
+C:\Users\Dukar\source\repos\Hazifeladat 2020 nov 11\bin\Debug\Hazifeladat 2020 nov 11.pdb
+C:\Users\Dukar\source\repos\Hazifeladat 2020 nov 11\obj\Debug\Hazifeladat 2020 nov 11.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Hazifeladat 2020 nov 11\obj\Debug\Hazifeladat_2020_nov_11.Hazi2020nov11.resources
+C:\Users\Dukar\source\repos\Hazifeladat 2020 nov 11\obj\Debug\Hazifeladat_2020_nov_11.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Hazifeladat 2020 nov 11\obj\Debug\Hazifeladat 2020 nov 11.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Hazifeladat 2020 nov 11\obj\Debug\Hazifeladat 2020 nov 11.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Hazifeladat 2020 nov 11\obj\Debug\Hazifeladat 2020 nov 11.exe
+C:\Users\Dukar\source\repos\Hazifeladat 2020 nov 11\obj\Debug\Hazifeladat 2020 nov 11.pdb
