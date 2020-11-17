@@ -2,9 +2,9 @@ C:\Users\Dukar\source\repos\tabcontrol2\bin\Debug\tabcontrol2.exe.config
 C:\Users\Dukar\source\repos\tabcontrol2\bin\Debug\tabcontrol2.exe
 C:\Users\Dukar\source\repos\tabcontrol2\bin\Debug\tabcontrol2.pdb
 C:\Users\Dukar\source\repos\tabcontrol2\obj\Debug\tabcontrol2.csprojAssemblyReference.cache
-C:\Users\Dukar\source\repos\tabcontrol2\obj\Debug\tabcontrol2.Form1.resources
 C:\Users\Dukar\source\repos\tabcontrol2\obj\Debug\tabcontrol2.Properties.Resources.resources
 C:\Users\Dukar\source\repos\tabcontrol2\obj\Debug\tabcontrol2.csproj.GenerateResource.cache
 C:\Users\Dukar\source\repos\tabcontrol2\obj\Debug\tabcontrol2.csproj.CoreCompileInputs.cache
 C:\Users\Dukar\source\repos\tabcontrol2\obj\Debug\tabcontrol2.exe
 C:\Users\Dukar\source\repos\tabcontrol2\obj\Debug\tabcontrol2.pdb
+C:\Users\Dukar\source\repos\tabcontrol2\obj\Debug\tabcontrol2.Tabcontrol2.resources

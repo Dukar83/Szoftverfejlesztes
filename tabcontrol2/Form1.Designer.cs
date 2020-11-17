@@ -1,6 +1,6 @@
 ﻿namespace tabcontrol2
 {
-    partial class Form1
+    partial class Tabcontrol2
     {
         /// <summary>
         /// Required designer variable.
@@ -28,65 +28,53 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.tabControlFo = new System.Windows.Forms.TabControl();
-            this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.btnKilepes = new System.Windows.Forms.Button();
+            this.tbc = new System.Windows.Forms.TabControl();
+            this.tbcAdatok = new System.Windows.Forms.TabPage();
+            this.btnAdatOK = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.tbxB = new System.Windows.Forms.TextBox();
             this.tbxA = new System.Windows.Forms.TextBox();
-            this.btnAdatOK = new System.Windows.Forms.Button();
+            this.tbcEredmeny = new System.Windows.Forms.TabPage();
             this.lblEredm = new System.Windows.Forms.Label();
-            this.tabControlFo.SuspendLayout();
-            this.tabPage1.SuspendLayout();
-            this.tabPage2.SuspendLayout();
+            this.tbc.SuspendLayout();
+            this.tbcAdatok.SuspendLayout();
+            this.tbcEredmeny.SuspendLayout();
             this.SuspendLayout();
             // 
-            // tabControlFo
+            // tbc
             // 
-            this.tabControlFo.Controls.Add(this.tabPage1);
-            this.tabControlFo.Controls.Add(this.tabPage2);
-            this.tabControlFo.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tabControlFo.Location = new System.Drawing.Point(0, 0);
-            this.tabControlFo.Name = "tabControlFo";
-            this.tabControlFo.SelectedIndex = 0;
-            this.tabControlFo.Size = new System.Drawing.Size(800, 450);
-            this.tabControlFo.TabIndex = 0;
+            this.tbc.Controls.Add(this.tbcAdatok);
+            this.tbc.Controls.Add(this.tbcEredmeny);
+            this.tbc.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tbc.Location = new System.Drawing.Point(0, 0);
+            this.tbc.Name = "tbc";
+            this.tbc.SelectedIndex = 0;
+            this.tbc.Size = new System.Drawing.Size(236, 288);
+            this.tbc.TabIndex = 0;
             // 
-            // tabPage1
+            // tbcAdatok
             // 
-            this.tabPage1.Controls.Add(this.btnAdatOK);
-            this.tabPage1.Controls.Add(this.label1);
-            this.tabPage1.Controls.Add(this.tbxB);
-            this.tabPage1.Controls.Add(this.tbxA);
-            this.tabPage1.Location = new System.Drawing.Point(4, 22);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(792, 424);
-            this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "Adatok";
-            this.tabPage1.UseVisualStyleBackColor = true;
+            this.tbcAdatok.Controls.Add(this.btnAdatOK);
+            this.tbcAdatok.Controls.Add(this.label1);
+            this.tbcAdatok.Controls.Add(this.tbxB);
+            this.tbcAdatok.Controls.Add(this.tbxA);
+            this.tbcAdatok.Location = new System.Drawing.Point(4, 22);
+            this.tbcAdatok.Name = "tbcAdatok";
+            this.tbcAdatok.Padding = new System.Windows.Forms.Padding(3);
+            this.tbcAdatok.Size = new System.Drawing.Size(228, 262);
+            this.tbcAdatok.TabIndex = 0;
+            this.tbcAdatok.Text = "Adatok";
+            this.tbcAdatok.UseVisualStyleBackColor = true;
             // 
-            // tabPage2
+            // btnAdatOK
             // 
-            this.tabPage2.Controls.Add(this.lblEredm);
-            this.tabPage2.Controls.Add(this.btnKilepes);
-            this.tabPage2.Location = new System.Drawing.Point(4, 22);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(792, 424);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "Eredények";
-            this.tabPage2.UseVisualStyleBackColor = true;
-            // 
-            // btnKilepes
-            // 
-            this.btnKilepes.Location = new System.Drawing.Point(36, 152);
-            this.btnKilepes.Name = "btnKilepes";
-            this.btnKilepes.Size = new System.Drawing.Size(75, 23);
-            this.btnKilepes.TabIndex = 0;
-            this.btnKilepes.Text = "Kilépés";
-            this.btnKilepes.UseVisualStyleBackColor = true;
+            this.btnAdatOK.Location = new System.Drawing.Point(33, 207);
+            this.btnAdatOK.Name = "btnAdatOK";
+            this.btnAdatOK.Size = new System.Drawing.Size(75, 23);
+            this.btnAdatOK.TabIndex = 7;
+            this.btnAdatOK.Text = "OK";
+            this.btnAdatOK.UseVisualStyleBackColor = true;
+            this.btnAdatOK.Click += new System.EventHandler(this.btnAdatOK_Click);
             // 
             // label1
             // 
@@ -110,16 +98,17 @@
             this.tbxA.Name = "tbxA";
             this.tbxA.Size = new System.Drawing.Size(100, 20);
             this.tbxA.TabIndex = 4;
-            this.tbxA.Leave += new System.EventHandler(this.tbxA_Leave);
             // 
-            // btnAdatOK
+            // tbcEredmeny
             // 
-            this.btnAdatOK.Location = new System.Drawing.Point(33, 207);
-            this.btnAdatOK.Name = "btnAdatOK";
-            this.btnAdatOK.Size = new System.Drawing.Size(75, 23);
-            this.btnAdatOK.TabIndex = 7;
-            this.btnAdatOK.Text = "OK";
-            this.btnAdatOK.UseVisualStyleBackColor = true;
+            this.tbcEredmeny.Controls.Add(this.lblEredm);
+            this.tbcEredmeny.Location = new System.Drawing.Point(4, 22);
+            this.tbcEredmeny.Name = "tbcEredmeny";
+            this.tbcEredmeny.Padding = new System.Windows.Forms.Padding(3);
+            this.tbcEredmeny.Size = new System.Drawing.Size(228, 262);
+            this.tbcEredmeny.TabIndex = 1;
+            this.tbcEredmeny.Text = "Eredmények";
+            this.tbcEredmeny.UseVisualStyleBackColor = true;
             // 
             // lblEredm
             // 
@@ -130,35 +119,36 @@
             this.lblEredm.TabIndex = 1;
             this.lblEredm.Text = "Eredmény:";
             // 
-            // Form1
+            // Tabcontrol2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.tabControlFo);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.tabControlFo.ResumeLayout(false);
-            this.tabPage1.ResumeLayout(false);
-            this.tabPage1.PerformLayout();
-            this.tabPage2.ResumeLayout(false);
-            this.tabPage2.PerformLayout();
+            this.ClientSize = new System.Drawing.Size(236, 288);
+            this.Controls.Add(this.tbc);
+            this.Location = new System.Drawing.Point(100, 100);
+            this.Name = "Tabcontrol2";
+            this.Text = "Tabcontrol2";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Tabcontrol2_FormClosing);
+            this.tbc.ResumeLayout(false);
+            this.tbcAdatok.ResumeLayout(false);
+            this.tbcAdatok.PerformLayout();
+            this.tbcEredmeny.ResumeLayout(false);
+            this.tbcEredmeny.PerformLayout();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.TabControl tabControlFo;
-        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabControl tbc;
+        private System.Windows.Forms.TabPage tbcAdatok;
         private System.Windows.Forms.Button btnAdatOK;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox tbxB;
         private System.Windows.Forms.TextBox tbxA;
-        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.TabPage tbcEredmeny;
         private System.Windows.Forms.Label lblEredm;
-        private System.Windows.Forms.Button btnKilepes;
     }
 }
 

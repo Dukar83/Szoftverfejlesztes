@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace tabcontrol2
 {
-    public partial class Form1 : Form
+    public partial class Tabcontrol2 : Form
     {
-        public Form1()
+        public Tabcontrol2()
         {
             InitializeComponent();
         }
@@ -23,23 +23,36 @@ namespace tabcontrol2
         A bekéréskor ügyeljen a kivételkezelésre! A programból való kilépéskor kérdezzen rá, hogy biztos ki akar-e lépni a felhasználó, és a válasznak megfelelően járjon el.
          */
 
-        private void tbxA_Leave(object sender, EventArgs e)
-        {
-        }
-
-        private void Ellenoriz(object sender, EventArgs e)
+        private void Ellenoriz()
         {
             //Ellenörző metódus
-            if (true)
+            if (tbxA.Text=="")
             {
-                // Ha jó, akkor tovább léptet
+                MessageBox.Show("A üres! Tölsd ki");
+                tbxA.Focus();
+            }
+            else if (tbxB.Text == "")
+            {
+                MessageBox.Show("B üres! Tölsd ki");
+                tbxB.Focus();
             }
             else
             {
-                // Ha nem, akkor vissza adja a fókuszt hibaüzenettel
-
-
+                // Ha minden jó akkor számolunk
+                lblEredm.Text = "A számtani közép eredménye: " + Convert.ToString(((Convert.ToInt32(tbxA.Text) + Convert.ToInt32(tbxB.Text)) / 2));
             }
+        }
+
+        private void btnAdatOK_Click(object sender, EventArgs e)
+        {
+            Ellenoriz();
+        }
+
+        private void Tabcontrol2_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult kilep = MessageBox.Show("Kilépsz?", "Bezár Ablak?", MessageBoxButtons.YesNo);
+            if (kilep == DialogResult.Yes) Application.Exit();
+            else e.Cancel = true;
         }
     }
 }
