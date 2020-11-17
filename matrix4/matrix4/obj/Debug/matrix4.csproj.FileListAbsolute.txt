@@ -1,0 +1,5 @@
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\matrix4\matrix4\obj\Debug\matrix4.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\matrix4\matrix4\obj\Debug\matrix4.Form1.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\matrix4\matrix4\obj\Debug\matrix4.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\matrix4\matrix4\obj\Debug\matrix4.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\matrix4\matrix4\obj\Debug\matrix4.csproj.CoreCompileInputs.cache

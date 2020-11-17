@@ -8,3 +8,13 @@ C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\ha
 C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.csproj.CoreCompileInputs.cache
 C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.exe
 C:\Users\peter.kelemen\source\repos\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\halmazMuveletes\halmazMuveletes\bin\Debug\halmazMuveletes.exe.config
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\halmazMuveletes\halmazMuveletes\bin\Debug\halmazMuveletes.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\halmazMuveletes\halmazMuveletes\bin\Debug\halmazMuveletes.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.Form1.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\halmazMuveletes\halmazMuveletes\obj\Debug\halmazMuveletes.pdb
