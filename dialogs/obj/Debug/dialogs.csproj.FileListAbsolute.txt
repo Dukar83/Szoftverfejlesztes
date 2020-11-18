@@ -1,0 +1,10 @@
+C:\Users\Dukar\source\repos\dialogs\bin\Debug\dialogs.exe.config
+C:\Users\Dukar\source\repos\dialogs\bin\Debug\dialogs.exe
+C:\Users\Dukar\source\repos\dialogs\bin\Debug\dialogs.pdb
+C:\Users\Dukar\source\repos\dialogs\obj\Debug\dialogs.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\dialogs\obj\Debug\dialogs.Dialogs.resources
+C:\Users\Dukar\source\repos\dialogs\obj\Debug\dialogs.Properties.Resources.resources
+C:\Users\Dukar\source\repos\dialogs\obj\Debug\dialogs.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\dialogs\obj\Debug\dialogs.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\dialogs\obj\Debug\dialogs.exe
+C:\Users\Dukar\source\repos\dialogs\obj\Debug\dialogs.pdb
