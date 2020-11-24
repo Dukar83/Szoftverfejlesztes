@@ -1,0 +1,11 @@
+C:\Users\Dukar\source\repos\Modális\obj\Debug\Modális.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Modális\obj\Debug\Modális.Modalis.resources
+C:\Users\Dukar\source\repos\Modális\obj\Debug\Modális.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Modális\obj\Debug\Modális.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Modális\obj\Debug\Modális.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Modális\bin\Debug\Modális.exe.config
+C:\Users\Dukar\source\repos\Modális\bin\Debug\Modális.exe
+C:\Users\Dukar\source\repos\Modális\bin\Debug\Modális.pdb
+C:\Users\Dukar\source\repos\Modális\obj\Debug\Modális.exe
+C:\Users\Dukar\source\repos\Modális\obj\Debug\Modális.pdb
+C:\Users\Dukar\source\repos\Modális\obj\Debug\Modális.FormAdat.resources
