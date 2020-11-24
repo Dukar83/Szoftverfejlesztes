@@ -1,0 +1,11 @@
+C:\Users\Dukar\source\repos\TimerIdőzitők\bin\Debug\TimerIdőzitők.exe.config
+C:\Users\Dukar\source\repos\TimerIdőzitők\bin\Debug\TimerIdőzitők.exe
+C:\Users\Dukar\source\repos\TimerIdőzitők\bin\Debug\TimerIdőzitők.pdb
+C:\Users\Dukar\source\repos\TimerIdőzitők\obj\Debug\TimerIdőzitők.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\TimerIdőzitők\obj\Debug\TimerIdőzitők.Form1.resources
+C:\Users\Dukar\source\repos\TimerIdőzitők\obj\Debug\TimerIdőzitők.Properties.Resources.resources
+C:\Users\Dukar\source\repos\TimerIdőzitők\obj\Debug\TimerIdőzitők.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\TimerIdőzitők\obj\Debug\TimerIdőzitők.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\TimerIdőzitők\obj\Debug\TimerIdőzitők.exe
+C:\Users\Dukar\source\repos\TimerIdőzitők\obj\Debug\TimerIdőzitők.pdb
+C:\Users\Dukar\source\repos\TimerIdőzitők\obj\Debug\TimerIdőzitők.Form2.resources
