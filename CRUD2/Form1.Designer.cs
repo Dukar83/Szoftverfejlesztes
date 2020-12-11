@@ -39,6 +39,7 @@ namespace CRUD2
             this.button2 = new System.Windows.Forms.Button();
             this.btnRegeles = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.lblKapcsolodott = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -136,12 +137,23 @@ namespace CRUD2
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // lblKapcsolodott
+            // 
+            this.lblKapcsolodott.AutoSize = true;
+            this.lblKapcsolodott.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
+            this.lblKapcsolodott.Location = new System.Drawing.Point(44, 199);
+            this.lblKapcsolodott.Name = "lblKapcsolodott";
+            this.lblKapcsolodott.Size = new System.Drawing.Size(60, 24);
+            this.lblKapcsolodott.TabIndex = 10;
+            this.lblKapcsolodott.Text = "label4";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblKapcsolodott);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.btnRegeles);
             this.Controls.Add(this.button2);
@@ -154,6 +166,7 @@ namespace CRUD2
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -172,6 +185,7 @@ namespace CRUD2
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button btnRegeles;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Label lblKapcsolodott;
     }
 }
 

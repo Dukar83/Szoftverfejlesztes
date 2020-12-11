@@ -27,24 +27,42 @@ namespace CRUD2
             sb.Server = "localhost";
             sb.UserID = "root";
             sb.Password = "";
-            sb.Database = "userTest"; /*kiselőadást lemásoltam ékezet nélküli DB-be*/
+            sb.Database = "usertest"; /*kiselőadást lemásoltam ékezet nélküli DB-be*/
 
-            MySqlConnection conn = new MySqlConnection(sb.ToString());
-            conn.Open();
-            sql = conn.CreateCommand();
+            try
+            {
+                MySqlConnection conn = new MySqlConnection(sb.ToString());
+                conn.Open();
+                sql = conn.CreateCommand();
+
+                if (conn.State == ConnectionState.Open)
+                {
+                    lblKapcsolodott.Text = "Kapcsolódott";
+                    lblKapcsolodott.ForeColor = Color.Green;
+                }
+                else
+                {
+                    lblKapcsolodott.Text = "Nem kapcsolódott";
+                    lblKapcsolodott.ForeColor = Color.Red;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }   
         }
 
         private void btnRegeles_Click_1(object sender, EventArgs e)/*CREATE*/
         {
-            /*   string nev = "bela";
+               string nev = "bela";
                string email = "bela@hu.hu";
                string jelszo = "belajelszo";
                string osszeg = "5000";
 
-                 sql.CommandText = "INSERT INTO `users` (`ID`, `name`, `Email`, `password`, `balance`, `ID_Deleted_User`) VALUES(NULL, " + nev + ", " + email + ", " + jelszo + ", " + osszeg + ", '2');";
-               kikommentáltam mivel nem ment */
-
-             sql.CommandText = "INSERT INTO `users` (`ID`, `name`, `Email`, `password`, `balance`, `ID_Deleted_User`) VALUES(NULL, 't3', 't2@t2.s', 't2', '3000', '2');"; /*ez se megy*/
+                 sql.CommandText = "INSERT INTO `users` (`ID`, `name`, `Email`, `password`, `balance`, `ID_Deleted_User`) VALUES(NULL, '"+nev+"', '"+email+"', '"+jelszo+"', '"+osszeg+"', '2')";
+                 
+          /*    sql.CommandText = "INSERT INTO `users` (`ID`, `name`, `Email`, `password`, `balance`, `ID_Deleted_User`) VALUES(NULL, 't3', 't2@t2.s', 't2', '3000', '2')";
+            /*ez se megy hiába "; vagy ;"; van a végén, vagy @ az elején*/
 
             MessageBox.Show("INSERT lement");
         }
@@ -63,6 +81,12 @@ namespace CRUD2
         private void button1_Click(object sender, EventArgs e)/*READ*/
         {
 
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e) /*ha bezárul a fomr lezárjuk az adatb kapcsolatot*/
+        {
+            sql.Connection.Close(); /*C# könyv alapján adtam hozzá hátha..*/
+            sql.Connection.Dispose();
         }
     }
 }
