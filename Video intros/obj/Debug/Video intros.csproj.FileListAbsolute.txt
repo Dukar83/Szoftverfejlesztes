@@ -1,0 +1,30 @@
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\MainWindow.baml
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\MainWindow.g.cs
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\App.g.cs
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\Video intros_MarkupCompile.cache
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\Video intros.g.resources
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\Video_intros.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\Video intros.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\Video intros.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Video intros\bin\Debug\Video intros.exe.config
+C:\Users\Dukar\source\repos\Video intros\bin\Debug\Video intros.exe
+C:\Users\Dukar\source\repos\Video intros\bin\Debug\Video intros.pdb
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\Video intros.exe
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\Video intros.pdb
+C:\Users\Dukar\source\repos\Video intros\bin\Debug\Resources\Kelemen Works intro.mp4
+C:\Users\Dukar\source\repos\Video intros\obj\Debug\Video intros.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\tesztelős\Video intros\bin\Debug\Resources\Kelemen Works intro.mp4
+C:\Users\Dukar\source\repos\tesztelős\Video intros\bin\Debug\Video intros.exe.config
+C:\Users\Dukar\source\repos\tesztelős\Video intros\bin\Debug\Video intros.exe
+C:\Users\Dukar\source\repos\tesztelős\Video intros\bin\Debug\Video intros.pdb
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\Video intros.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\MainWindow.baml
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\MainWindow.g.cs
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\App.g.cs
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\Video intros_MarkupCompile.cache
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\Video intros.g.resources
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\Video_intros.Properties.Resources.resources
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\Video intros.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\Video intros.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\Video intros.exe
+C:\Users\Dukar\source\repos\tesztelős\Video intros\obj\Debug\Video intros.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dukar\source\repos\uj\obj\Debug\uj.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\uj\obj\Debug\uj.Form1.resources
+C:\Users\Dukar\source\repos\uj\obj\Debug\uj.Properties.Resources.resources
+C:\Users\Dukar\source\repos\uj\obj\Debug\uj.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\uj\obj\Debug\uj.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\uj\bin\Debug\uj.exe.config
+C:\Users\Dukar\source\repos\uj\bin\Debug\uj.exe
+C:\Users\Dukar\source\repos\uj\bin\Debug\uj.pdb
+C:\Users\Dukar\source\repos\uj\obj\Debug\uj.exe
+C:\Users\Dukar\source\repos\uj\obj\Debug\uj.pdb

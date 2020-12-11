@@ -8,13 +8,3 @@ C:\Users\Dukar\source\repos\listafeltoltos\obj\Debug\listafeltoltos.csproj.Gener
 C:\Users\Dukar\source\repos\listafeltoltos\obj\Debug\listafeltoltos.csproj.CoreCompileInputs.cache
 C:\Users\Dukar\source\repos\listafeltoltos\obj\Debug\listafeltoltos.exe
 C:\Users\Dukar\source\repos\listafeltoltos\obj\Debug\listafeltoltos.pdb
-C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\listafeltoltos\bin\Debug\listafeltoltos.exe.config
-C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\listafeltoltos\bin\Debug\listafeltoltos.exe
-C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\listafeltoltos\bin\Debug\listafeltoltos.pdb
-C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\listafeltoltos\obj\Debug\listafeltoltos.csprojAssemblyReference.cache
-C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\listafeltoltos\obj\Debug\listafeltoltos.Form1.resources
-C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\listafeltoltos\obj\Debug\listafeltoltos.Properties.Resources.resources
-C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\listafeltoltos\obj\Debug\listafeltoltos.csproj.GenerateResource.cache
-C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\listafeltoltos\obj\Debug\listafeltoltos.csproj.CoreCompileInputs.cache
-C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\listafeltoltos\obj\Debug\listafeltoltos.exe
-C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\listafeltoltos\obj\Debug\listafeltoltos.pdb
