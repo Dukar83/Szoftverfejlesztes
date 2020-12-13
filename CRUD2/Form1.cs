@@ -54,39 +54,67 @@ namespace CRUD2
 
         private void btnRegeles_Click_1(object sender, EventArgs e)/*CREATE*/
         {
-               string nev = "bela";
-               string email = "bela@hu.hu";
-               string jelszo = "belajelszo";
-               string osszeg = "5000";
+            if (sql.Connection.State == ConnectionState.Closed)
+            { sql.Connection.Open(); /*azért kell megint megnyitni mert lezárom a kapcsolatot ha a listázásra lő az ember*/ }
 
-                 sql.CommandText = "INSERT INTO `users` (`ID`, `name`, `Email`, `password`, `balance`, `ID_Deleted_User`) VALUES(NULL, '"+nev+"', '"+email+"', '"+jelszo+"', '"+osszeg+"', '2')";
-                 
-          /*    sql.CommandText = "INSERT INTO `users` (`ID`, `name`, `Email`, `password`, `balance`, `ID_Deleted_User`) VALUES(NULL, 't3', 't2@t2.s', 't2', '3000', '2')";
-            /*ez se megy hiába "; vagy ;"; van a végén, vagy @ az elején*/
+            string nev = txbNev.Text;
+            string email = txbEmail.Text;
+            string jelszo = txbJelszo.Text;
+               string osszeg = "5000"; /*hagytam 5kn*/
 
-            MessageBox.Show("INSERT lement");
+                 sql.CommandText = "INSERT INTO `users` (`ID`, `name`, `Email`, `password`, `balance`, `ID_Deleted_User`) VALUES(NULL, '"+nev+"', '"+email+"', '"+jelszo+"', '"+osszeg+"', '2');";
+                sql.ExecuteReader();
+
+            MessageBox.Show("Regisztráció(INSERT) folyamat befejeződött");
         }
 
         private void button2_Click(object sender, EventArgs e) /*DELETE*/
         {
-            sql.CommandText = "DELETE FROM `users` WHERE `users`.`ID` = 9;"; /*marhára nem töröl*/
-            MessageBox.Show("DELETE lement");
+          if (sql.Connection.State == ConnectionState.Closed)
+            { sql.Connection.Open(); /*azért kell megint megnyitni mert lezárom a kapcsolatot ha a listázásra lő az ember*/ }
+            
+            string azonosito = txbTorol.Text;
+
+            MessageBox.Show("Az azonosito: " + azonosito);
+
+            sql.CommandText = "DELETE FROM `users` WHERE `users`.`ID` = "+azonosito+";";
+            sql.ExecuteReader();
+            MessageBox.Show("Törlés(DELETE) folyamat befejeződött");
         }
 
-        private void button4_Click(object sender, EventArgs e)/*UPDATE*/
+        private void button4_Click(object sender, EventArgs e)/*UPDATE CSAK EZ NEM MEGY*/
         {
-            /* ql.CommandText = "UPDATE `users` SET `ID`=[value-1],`name`=[value-2],`Email`=[value-3],`password`=[value-4],`balance`=[value-5],`ID_Deleted_User`=[value-6];"; - nyilván az email value-t kiolvasni textboxból és ennyi*/
+            if (sql.Connection.State == ConnectionState.Closed)
+            { sql.Connection.Open(); /*azért kell megint megnyitni mert lezárom a kapcsolatot ha a listázásra lő az ember*/ }
+
+            string emailcim = txbEmail.Text;
+           
+            sql.CommandText = "UPDATE `users` SET 'Email`= "+emailcim+" WHERE `ID` = '1';"; /*fázoltánnak email cimét akarnám felülirni*/
+          //  sql.ExecuteReader(); //hibára fut
+                                   sql.ExecuteNonQuery();  //elvileg ezt is lehetne használni de ez is hibára fut
+            MessageBox.Show("Email cim frissités(UPDATE) folyamat befejeződött");
         }
 
-        private void button1_Click(object sender, EventArgs e)/*READ*/
+        private void button1_Click(object sender, EventArgs e)/*READ\SELECT LISTÁZÁS*/
         {
+            dataGridView1.DataSource = null;
+            sql.Connection.Close(); //ez a két sor azért kell hogyha többször is használni akarom a listázást, pl regisztráció vagy törlés előtt és után
 
+      //      sql.CommandText = "SELECT * FROM `users`";
+       //     sql.ExecuteReader(); ezt itt ki kell! kommentálni mivel a mysqladapter is nyit egy kapcsolatot és a kettő ütné egymást, illetve egy elég és ide a SELECT-hez az kell
+       
+            MySqlDataAdapter da = new MySqlDataAdapter(sql);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            dataGridView1.DataSource = dt;  //ez a négy sor egy módszer arra hogy kiolvassuk a SELECTből visszatérő infokat és beleirjuk a datagridviewba
+
+            MessageBox.Show("Users tábla listázása(READ) folyamat befejeződött");
         }
 
-        private void Form1_FormClosing(object sender, FormClosingEventArgs e) /*ha bezárul a fomr lezárjuk az adatb kapcsolatot*/
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e) /*ha bezárul a fomr lezárjuk az adatb kapcsolatot, nem volt rá szükség de elvileg nem árt*/
         {
-            sql.Connection.Close(); /*C# könyv alapján adtam hozzá hátha..*/
-            sql.Connection.Dispose();
+      /*    sql.Connection.Close(); /*C# könyv alapján adtam hozzá
+            sql.Connection.Dispose();*/
         }
     }
 }
