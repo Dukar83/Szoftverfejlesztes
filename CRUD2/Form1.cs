@@ -27,8 +27,9 @@ namespace CRUD2
             sb.Server = "localhost";
             sb.UserID = "root";
             sb.Password = "";
-            sb.Database = "usertest"; /*kiselőadást lemásoltam ékezet nélküli DB-be*/
+            sb.Database = "usertest";
 
+            //csak egy teszt hogy a kapcsolat létrejött e
             try
             {
                 MySqlConnection conn = new MySqlConnection(sb.ToString());
@@ -60,10 +61,10 @@ namespace CRUD2
             string nev = txbNev.Text;
             string email = txbEmail.Text;
             string jelszo = txbJelszo.Text;
-               string osszeg = "5000"; /*hagytam 5kn*/
+            string osszeg = "5000"; /*hagytam 5kn*/
 
                  sql.CommandText = "INSERT INTO `users` (`ID`, `name`, `Email`, `password`, `balance`, `ID_Deleted_User`) VALUES(NULL, '"+nev+"', '"+email+"', '"+jelszo+"', '"+osszeg+"', '2');";
-                sql.ExecuteReader();
+            sql.ExecuteNonQuery();
 
             MessageBox.Show("Regisztráció(INSERT) folyamat befejeződött");
         }
@@ -71,42 +72,44 @@ namespace CRUD2
         private void button2_Click(object sender, EventArgs e) /*DELETE*/
         {
           if (sql.Connection.State == ConnectionState.Closed)
-            { sql.Connection.Open(); /*azért kell megint megnyitni mert lezárom a kapcsolatot ha a listázásra lő az ember*/ }
+            { sql.Connection.Open(); }
             
             string azonosito = txbTorol.Text;
 
-            MessageBox.Show("Az azonosito: " + azonosito);
+     //     MessageBox.Show("Az azonosito: " + azonosito);
 
             sql.CommandText = "DELETE FROM `users` WHERE `users`.`ID` = "+azonosito+";";
-            sql.ExecuteReader();
+            sql.ExecuteNonQuery();
             MessageBox.Show("Törlés(DELETE) folyamat befejeződött");
         }
 
-        private void button4_Click(object sender, EventArgs e)/*UPDATE CSAK EZ NEM MEGY*/
+        private void button4_Click(object sender, EventArgs e)/*UPDATE*/
         {
             if (sql.Connection.State == ConnectionState.Closed)
-            { sql.Connection.Open(); /*azért kell megint megnyitni mert lezárom a kapcsolatot ha a listázásra lő az ember*/ }
+            { sql.Connection.Open(); }
 
             string emailcim = txbEmail.Text;
            
-            sql.CommandText = "UPDATE `users` SET 'Email`= "+emailcim+" WHERE `ID` = '1';"; /*fázoltánnak email cimét akarnám felülirni*/
-          //  sql.ExecuteReader(); //hibára fut
-                                   sql.ExecuteNonQuery();  //elvileg ezt is lehetne használni de ez is hibára fut
+            sql.CommandText = "UPDATE `users` SET `Email`= '"+emailcim+"' WHERE `ID` = 1;"; 
+            sql.ExecuteNonQuery();  
+
             MessageBox.Show("Email cim frissités(UPDATE) folyamat befejeződött");
         }
 
         private void button1_Click(object sender, EventArgs e)/*READ\SELECT LISTÁZÁS*/
         {
+            //ez a két sor azért kell hogyha többször is használni akarom a listázást, pl regisztráció vagy törlés előtt és után
             dataGridView1.DataSource = null;
-            sql.Connection.Close(); //ez a két sor azért kell hogyha többször is használni akarom a listázást, pl regisztráció vagy törlés előtt és után
+            sql.Connection.Close();
 
-      //      sql.CommandText = "SELECT * FROM `users`";
-       //     sql.ExecuteReader(); ezt itt ki kell! kommentálni mivel a mysqladapter is nyit egy kapcsolatot és a kettő ütné egymást, illetve egy elég és ide a SELECT-hez az kell
-       
+            //     ql.ExecuteNonQuery();   ezt itt ki kell! kommentálni mivel a mysqladapter is nyit egy kapcsolatot és a kettő ütné egymást, illetve egy elég és ide a SELECT-hez az kell
+            sql.CommandText = "SELECT * FROM `users`";
+
+            //ez a négy sor egy módszer arra hogy kiolvassuk a SELECTből visszatérő infokat és beleirjuk a datagridviewba
             MySqlDataAdapter da = new MySqlDataAdapter(sql);
             DataTable dt = new DataTable();
             da.Fill(dt);
-            dataGridView1.DataSource = dt;  //ez a négy sor egy módszer arra hogy kiolvassuk a SELECTből visszatérő infokat és beleirjuk a datagridviewba
+            dataGridView1.DataSource = dt;  
 
             MessageBox.Show("Users tábla listázása(READ) folyamat befejeződött");
         }
