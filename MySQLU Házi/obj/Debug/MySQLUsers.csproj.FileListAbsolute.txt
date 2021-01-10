@@ -1,0 +1,70 @@
+C:\Users\Dukar\source\repos\MySQLUsers\obj\Debug\MySQLUsers.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\MySQLUsers\obj\Debug\MySQLUsers.MainForm.resources
+C:\Users\Dukar\source\repos\MySQLUsers\obj\Debug\MySQLUsers.Properties.Resources.resources
+C:\Users\Dukar\source\repos\MySQLUsers\obj\Debug\MySQLUsers.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\MySQLUsers\obj\Debug\MySQLUsers.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\MySQLUsers.exe.config
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\MySQLUsers.exe
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\MySQLUsers.pdb
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\Google.Protobuf.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\MySql.Data.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\Renci.SshNet.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\System.Buffers.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\System.Memory.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\Zstandard.Net.dll
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\Google.Protobuf.xml
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\MySql.Data.xml
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\Renci.SshNet.xml
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\System.Buffers.xml
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\System.Memory.xml
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dukar\source\repos\MySQLUsers\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dukar\source\repos\MySQLUsers\obj\Debug\MySQLUsers.csproj.CopyComplete
+C:\Users\Dukar\source\repos\MySQLUsers\obj\Debug\MySQLUsers.exe
+C:\Users\Dukar\source\repos\MySQLUsers\obj\Debug\MySQLUsers.pdb
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\MySQLUsers.exe.config
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\MySQLUsers.exe
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\MySQLUsers.pdb
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\Google.Protobuf.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\MySql.Data.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\Renci.SshNet.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\System.Buffers.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\System.Memory.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\Zstandard.Net.dll
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\Google.Protobuf.xml
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\MySql.Data.xml
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\Renci.SshNet.xml
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\System.Buffers.xml
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\System.Memory.xml
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dukar\source\repos\MySQLU Házi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dukar\source\repos\MySQLU Házi\obj\Debug\MySQLUsers.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\MySQLU Házi\obj\Debug\MySQLUsers.MainForm.resources
+C:\Users\Dukar\source\repos\MySQLU Házi\obj\Debug\MySQLUsers.Properties.Resources.resources
+C:\Users\Dukar\source\repos\MySQLU Házi\obj\Debug\MySQLUsers.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\MySQLU Házi\obj\Debug\MySQLUsers.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\MySQLU Házi\obj\Debug\MySQLUsers.csproj.CopyComplete
+C:\Users\Dukar\source\repos\MySQLU Házi\obj\Debug\MySQLUsers.exe
+C:\Users\Dukar\source\repos\MySQLU Házi\obj\Debug\MySQLUsers.pdb
