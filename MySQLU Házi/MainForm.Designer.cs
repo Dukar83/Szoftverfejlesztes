@@ -35,8 +35,6 @@ namespace MySQLUsers
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.btnOpen = new System.Windows.Forms.Button();
-            this.btnRead = new System.Windows.Forms.Button();
             this.btnNext = new System.Windows.Forms.Button();
             this.btnInsert = new System.Windows.Forms.Button();
             this.btnUpdate = new System.Windows.Forms.Button();
@@ -107,29 +105,6 @@ namespace MySQLUsers
             this.label3.Size = new System.Drawing.Size(34, 20);
             this.label3.TabIndex = 6;
             this.label3.Text = "ME";
-            // 
-            // btnOpen
-            // 
-            this.btnOpen.Location = new System.Drawing.Point(227, 38);
-            this.btnOpen.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnOpen.Name = "btnOpen";
-            this.btnOpen.Size = new System.Drawing.Size(148, 48);
-            this.btnOpen.TabIndex = 7;
-            this.btnOpen.Text = "Kapcsolódás";
-            this.btnOpen.UseVisualStyleBackColor = true;
-            this.btnOpen.Click += new System.EventHandler(this.btnOpen_Click);
-            // 
-            // btnRead
-            // 
-            this.btnRead.Enabled = false;
-            this.btnRead.Location = new System.Drawing.Point(227, 135);
-            this.btnRead.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnRead.Name = "btnRead";
-            this.btnRead.Size = new System.Drawing.Size(148, 48);
-            this.btnRead.TabIndex = 8;
-            this.btnRead.Text = "Megnyitás olvasásra";
-            this.btnRead.UseVisualStyleBackColor = true;
-            this.btnRead.Click += new System.EventHandler(this.btnRead_Click);
             // 
             // btnNext
             // 
@@ -246,8 +221,6 @@ namespace MySQLUsers
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnInsert);
             this.Controls.Add(this.btnNext);
-            this.Controls.Add(this.btnRead);
-            this.Controls.Add(this.btnOpen);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -272,8 +245,6 @@ namespace MySQLUsers
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button btnOpen;
-        private System.Windows.Forms.Button btnRead;
         private System.Windows.Forms.Button btnNext;
         private System.Windows.Forms.Button btnInsert;
         private System.Windows.Forms.Button btnUpdate;

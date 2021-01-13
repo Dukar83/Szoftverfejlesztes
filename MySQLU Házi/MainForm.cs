@@ -46,12 +46,30 @@ namespace MySQLUsers
         public MainForm()
         {
             InitializeComponent();
+            mySQLConnect();
+            
+            //Megnyitás olvasásra és ráálunk az első cikkre
+            using (MySqlCommand sqlComm = new MySqlCommand(CikkTeljesLista, msqlConn))
+            {
+                sqlComm.CommandType = CommandType.StoredProcedure;
+
+                try
+                {
+                    // Olvasás a táblából
+                    msqlDr = sqlComm.ExecuteReader();
+                    MessageBox.Show("Az olvasás megkezdődhet!");
+
+                    formState = FormState.Reading;
+                    buttonSwitch(formState);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+            NextCikk();
         }
 
-        private void btnOpen_Click(object sender, EventArgs e)
-        {
-            mySQLConnect();
-        }
 
         private void mySQLConnect()
         {
@@ -75,29 +93,6 @@ namespace MySQLUsers
             {
                 MessageBox.Show("Kapcsolódás az adatbázishoz nem sikerült!");
             }
-        }
-
-        private void btnRead_Click(object sender, EventArgs e)
-        {
-            using (MySqlCommand sqlComm = new MySqlCommand(CikkTeljesLista, msqlConn))
-            {
-                sqlComm.CommandType = CommandType.StoredProcedure;
-
-                try
-                {
-                    // Olvasás a táblából
-                    msqlDr = sqlComm.ExecuteReader();
-                    MessageBox.Show("Az olvasás megkezdődhet!");
-
-                    formState = FormState.Reading;
-                    buttonSwitch(formState);
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show(ex.Message);
-                }
-            }
-            NextCikk();
         }
 
         private void btnClose_Click(object sender, EventArgs e)
@@ -157,7 +152,7 @@ namespace MySQLUsers
                     buttonSwitch(formState); 
                     break;
                 case FormState.EditInsert:
-                    InsertCikk(tbxNeve.Text, Convert.ToInt32(tbxME.Text), tbxCikkszama.Text, Convert.ToInt32(tbxMennyiseg.Text)); //IDE pME not found in the collection
+                    InsertCikk(tbxNeve.Text, Convert.ToInt32(tbxME.Text), tbxCikkszama.Text, Convert.ToInt32(tbxMennyiseg.Text)); //több táblás kezelés lesz
                     formState = FormState.Opened; // Beszúrás után átváltunk opened státuszra
                     buttonSwitch(formState); // a gombokat utána állitjuk
                     break;
@@ -287,12 +282,12 @@ namespace MySQLUsers
             switch (fs)
             {
                 case FormState.Closed:
-                    btnOpen.Enabled = true;                    btnRead.Enabled = false;                    btnNext.Enabled = false;
+                    btnNext.Enabled = false;
                     btnInsert.Enabled = false;                    btnUpdate.Enabled = false;                    btnDelete.Enabled = false;
                     btnClose.Enabled = false;
                     break;
                 case FormState.Opened:
-                    btnOpen.Enabled = false;                    btnRead.Enabled = true;                    btnNext.Enabled = false;
+                    btnNext.Enabled = false;
                     btnInsert.Enabled = true;                    btnUpdate.Enabled = true;                    btnDelete.Enabled = true;
                     btnClose.Enabled = true;
 
@@ -304,12 +299,12 @@ namespace MySQLUsers
                     btnInsert.Text = insBasic;                    btnUpdate.Text = updBasic;
                     break;
                 case FormState.Reading:
-                    btnOpen.Enabled = false;                    btnRead.Enabled = false;                    btnNext.Enabled = true;
+                    btnNext.Enabled = true;
                     btnInsert.Enabled = true;                    btnUpdate.Enabled = true;                    btnDelete.Enabled = true;
                     btnClose.Enabled = true;
                     break;
                 case FormState.EditInsert:
-                    btnOpen.Enabled = false;                    btnRead.Enabled = false;                    btnNext.Enabled = false;
+                    btnNext.Enabled = false;
                     btnInsert.Enabled = true;                    btnUpdate.Enabled = false;                    btnDelete.Enabled = false;
                     btnClose.Enabled = true;
 
@@ -325,7 +320,7 @@ namespace MySQLUsers
                     btnInsert.Text = insEdit;
                     break;
                 case FormState.EditUpdate:
-                    btnOpen.Enabled = false;                    btnRead.Enabled = false;                    btnNext.Enabled = false;
+                    btnNext.Enabled = false;
                     btnInsert.Enabled = false;                    btnUpdate.Enabled = true;                    btnDelete.Enabled = false;
                     btnClose.Enabled = true;
 
