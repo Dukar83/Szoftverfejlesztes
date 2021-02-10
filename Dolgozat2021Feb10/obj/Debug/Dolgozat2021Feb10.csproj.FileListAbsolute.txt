@@ -1,0 +1,11 @@
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\bin\Debug\Dolgozat2021Feb10.exe.config
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\bin\Debug\Dolgozat2021Feb10.exe
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\bin\Debug\Dolgozat2021Feb10.pdb
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\obj\Debug\Dolgozat2021Feb10.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\obj\Debug\Dolgozat2021Feb10.Hataridos.resources
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\obj\Debug\Dolgozat2021Feb10.Első.resources
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\obj\Debug\Dolgozat2021Feb10.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\obj\Debug\Dolgozat2021Feb10.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\obj\Debug\Dolgozat2021Feb10.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\obj\Debug\Dolgozat2021Feb10.exe
+C:\Users\Dukar\source\repos\Dolgozat2021Feb10\obj\Debug\Dolgozat2021Feb10.pdb
