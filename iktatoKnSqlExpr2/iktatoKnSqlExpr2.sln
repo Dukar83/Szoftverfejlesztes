@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iktatoKnSqlExpr2", "iktatoKnSqlExpr2.csproj", "{AFD8383D-9DFE-4DD6-9820-268C7A79B6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermekekKomplex", "..\TermekekKomplex\TermekekKomplex.csproj", "{7F5FFCAC-68B4-4CF2-A673-FCF2B2A53B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD8383D-9DFE-4DD6-9820-268C7A79B6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD8383D-9DFE-4DD6-9820-268C7A79B6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD8383D-9DFE-4DD6-9820-268C7A79B6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD8383D-9DFE-4DD6-9820-268C7A79B6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F5FFCAC-68B4-4CF2-A673-FCF2B2A53B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5FFCAC-68B4-4CF2-A673-FCF2B2A53B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5FFCAC-68B4-4CF2-A673-FCF2B2A53B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5FFCAC-68B4-4CF2-A673-FCF2B2A53B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F065B2-EB24-480B-B549-03800274221C}
+	EndGlobalSection
+EndGlobal

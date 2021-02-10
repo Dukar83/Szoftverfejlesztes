@@ -1,0 +1,13 @@
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\bin\Debug\TermekekKomplex.exe.config
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\bin\Debug\TermekekKomplex.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\bin\Debug\TermekekKomplex.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\obj\Debug\TermekekKomplex.Form1.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\obj\Debug\TermekekKomplex.Mek.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\obj\Debug\TermekekKomplex.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\obj\Debug\TermekekKomplex.SzallitokForm.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\obj\Debug\TermekekKomplex.TermekekForm.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\obj\Debug\TermekekKomplex.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\obj\Debug\TermekekKomplex.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\obj\Debug\TermekekKomplex.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\obj\Debug\TermekekKomplex.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\TermekekKomplex\obj\Debug\TermekekKomplex.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\iktatoKnSqlExpr2\obj\Debug\iktatoKnSqlExpr2.csprojAssemblyReference.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\iktatoKnSqlExpr2\obj\Debug\iktatoKnSqlExpr2.Properties.Resources.resources
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\iktatoKnSqlExpr2\obj\Debug\iktatoKnSqlExpr2.csproj.GenerateResource.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\iktatoKnSqlExpr2\obj\Debug\iktatoKnSqlExpr2.csproj.CoreCompileInputs.cache
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\iktatoKnSqlExpr2\bin\Debug\iktatoKnSqlExpr2.exe.config
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\iktatoKnSqlExpr2\bin\Debug\iktatoKnSqlExpr2.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\iktatoKnSqlExpr2\bin\Debug\iktatoKnSqlExpr2.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\iktatoKnSqlExpr2\obj\Debug\iktatoKnSqlExpr2.exe
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\iktatoKnSqlExpr2\obj\Debug\iktatoKnSqlExpr2.pdb
+C:\Users\Dukar\source\repos\Szoftverfejlesztés\Szoftverfejlesztes\iktatoKnSqlExpr2\obj\Debug\iktatoKnSqlExpr2.MainForm.resources
