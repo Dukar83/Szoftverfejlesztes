@@ -67,5 +67,10 @@ namespace utnyilvantarto_kapcsolattal
         {
 
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

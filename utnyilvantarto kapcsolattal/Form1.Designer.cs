@@ -70,7 +70,7 @@ namespace utnyilvantarto_kapcsolattal
             // 
             // tbxUsername
             // 
-            this.tbxUsername.BackColor = System.Drawing.Color.YellowGreen;
+            this.tbxUsername.BackColor = System.Drawing.Color.CadetBlue;
             this.tbxUsername.Location = new System.Drawing.Point(280, 132);
             this.tbxUsername.Name = "tbxUsername";
             this.tbxUsername.Size = new System.Drawing.Size(100, 20);
@@ -79,7 +79,7 @@ namespace utnyilvantarto_kapcsolattal
             // 
             // tbxPassword
             // 
-            this.tbxPassword.BackColor = System.Drawing.Color.YellowGreen;
+            this.tbxPassword.BackColor = System.Drawing.Color.CadetBlue;
             this.tbxPassword.Location = new System.Drawing.Point(280, 198);
             this.tbxPassword.Name = "tbxPassword";
             this.tbxPassword.Size = new System.Drawing.Size(100, 20);
@@ -111,6 +111,7 @@ namespace utnyilvantarto_kapcsolattal
             this.Controls.Add(this.label1);
             this.Name = "MainForm";
             this.Text = "Utnyilvántartás";
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
